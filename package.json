@@ -1,0 +1,12 @@
+{
+    "name": "Node-RED_Classroom",
+    "description": "For my Node-RED Class.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "classroom.json",
+            "credentialsFile": "classroom_cred.json"
+        }
+    }
+}
